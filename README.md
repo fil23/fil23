@@ -50,19 +50,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@fil23/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@fil23/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@fil23/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@fil23/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@fil23/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@fil23/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
